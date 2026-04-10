@@ -1,4 +1,4 @@
-# 🤝 HelperConnect Platform
+# 🤝 WirHelfen Platform
 
 <div align="center">
 
